@@ -1,6 +1,6 @@
 # Abstract
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C2DH/template_repo_JDH/main?filepath=author_guideline_template.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dr-Hutchinson/Creating-an-AI-Research-Assistiant/blob/main/hutchinson_article.ipynb)
 
 Building an AI Research Assistant: Large Language Models as A Versatile Tool for Digital Historians
 
